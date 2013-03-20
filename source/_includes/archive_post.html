@@ -1,0 +1,16 @@
+{% capture category %}{{ post.categories | size }}{% endcapture %}
+<div class='image_post'><img src="/images_post/{{ post.image }}" /></div>
+<div class='content_whitout_image'>
+  <h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
+  {% assign content = post.content %}
+
+  <div class="entry-content">{{ content | excerpt }}</div>
+
+  <div class='info_post'>
+    <div class='circle'><p>{% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}</p></div>
+    <div class='circle'><p class='author'>{% include post/author.html %}</p></div>
+    <div class='circle'><p class='category'>{% include post/categories.html %}</p></div>
+    <div class='bar'></div>
+  </div>
+  <div class="clearBoth"></div>
+</div>

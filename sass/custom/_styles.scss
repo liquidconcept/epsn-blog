@@ -1,0 +1,58 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        COLORS                         *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+ $white: #FFF;
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        DEFAULT                        *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+html {
+  background-color: $white;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+
+a {
+}
+
+h1 {
+}
+
+h2, h3, h4 ,h5 , h6 {
+}
+
+p {
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        HEADER                         *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                  INFORMATION POST                     *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                      ARTICLES                         *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        COMMENT                        *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+#layout {
+  padding-bottom: 50px;
+}

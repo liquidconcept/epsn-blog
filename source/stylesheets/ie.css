@@ -1,0 +1,47 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                         IE 7/8                        *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+body {
+  width: 800px;
+} 
+
+h1 {
+  font-size: 1.8em;
+  padding: 0px 0px 0px 0px; 
+}
+
+.list_categories {
+  width: 530px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.list_categories li {
+  display: inline;
+}
+
+.entry-content img {
+  max-width: 800px; 
+} 
+
+.info_post .circle .author .name {
+  text-transform: uppercase;
+}
+
+blockquote {
+  font-size: 1.5em;
+}
+
+.image_post {
+  display: none; 
+  height: 0px; 
+}
+  
+.image_post img {
+  height: 0px;
+}
+
+article {
+  margin-top: 0px;
+}
