@@ -1,12 +1,14 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                        COLORS                         *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
  $white: #FFF;
+ $green: #00501C;
+ $grey: #303030;
+ $light_grey: #909090;
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                        DEFAULT                        *
@@ -17,17 +19,39 @@ html {
 }
 
 body {
-  width: 900px;
-  margin: 0 auto;
+  border-top: 5px solid $green;
+  font-family: Sintony, Arial;
+
+  header {
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  #content {
+    width: 960px;
+    margin: 0 auto;
+  }
+}
+
+.clearBoth {
+  clear: both;
 }
 
 a {
+  color: $green;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 h1 {
+  font-family: Sintony, Arial;
 }
 
 h2, h3, h4 ,h5 , h6 {
+  font-family: Sintony, Arial;
 }
 
 p {
@@ -37,6 +61,59 @@ p {
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                        HEADER                         *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.header {
+  padding: 30px 0px;
+
+  img {
+    margin-left: 30px;
+  }
+
+  .blog {
+    color: $green;
+    font-size: 1.5em;
+    font-weight: bold;
+    position: absolute;
+    top: 74px;
+  }
+
+  section.slider {
+    height: 500px;
+    overflow: hidden;
+    margin-left: -30px;
+  }
+
+  nav {
+    margin: 30px 0px;
+    clear: both;
+
+    h5 {
+      font-size: 1.2em;
+      float: left;
+    }
+
+    ul {
+      width: 530px;
+      float: right;
+
+      li {
+        color: $green;
+        font-size: 1.2em;
+        display: inline;
+        margin-left: 40px;
+        padding-left: 40px;
+        border-left: 1px solid $grey;
+
+        .icon_category {
+          img {
+            width: 20px;
+            height: 20px;
+          }
+        }
+      }
+    }
+  }
+}
 
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -48,6 +125,37 @@ p {
  *                      ARTICLES                         *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
+#content {
+  article {
+    /*border-top: 1px solid $grey;*/
+    padding-top: 10px;
+    margin-bottom: 35px;
+
+
+    .info {
+      color: $light_grey;
+
+      a {
+        color: $light_grey;        
+      }
+    }
+
+    .resume {
+      width: 960px;
+    }
+
+    .read {
+      float: left;
+    }
+
+    .date {
+      float: right;
+      margin-bottom: 20px;
+      color: $grey;
+    }
+  }
+} 
+
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                        COMMENT                        *
@@ -56,3 +164,85 @@ p {
 #layout {
   padding-bottom: 50px;
 }
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                        FOOTER                         *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+article.pre_footer {
+  width: 100%;
+  background-color: $light_grey;
+
+  section {
+    width: 960px;
+    margin: 0px auto;
+    padding: 20px 0px;
+
+    h3 {
+      font-size: 1.5em;
+      color: $white;
+      margin-bottom: 10px;
+    }
+
+    h4 {
+      font-size: 1.3em;
+      color: $white;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: $white;
+    }
+  }
+}
+
+footer {
+  background-color: $grey;
+  padding: 30px 0px;
+
+  article {
+    width: 960px;
+    margin: 0px auto;
+
+    section {
+      h3 {
+        color: $white;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+
+      ul {
+        margin: 0px 0px;
+
+        li { 
+          color: $white;
+          list-style: none;
+          font-size: 0.8em;
+        }
+      }
+
+      p {
+        color: $white;
+        font-size: 0.8em;
+      }
+
+      .address {
+        float: left;
+        margin-right: 60px;
+
+        h6 {
+          color: $white;
+        }
+      }
+
+      .address_studies {
+        margin-left: 80px;
+      }
+    }
+  }
+}
+
+
+
+
+

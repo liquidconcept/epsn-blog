@@ -24,12 +24,23 @@
   <script src="{{ root_url }}/javascripts/bootstrap.js"></script>
   <script src="{{ root_url }}/javascripts/ender.js"></script>
   <script src="{{ root_url }}/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="{{ root_url }}/javascripts/script.js"></script>
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
   {% include google_analytics.html %}
 </head>
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
-  <header role="banner" class='header'>{% include header.html %}</header>
-  <nav>{% include naviguation.html %}</nav>
+  <header role="banner" class='header'>
+    {% include header.html %}
+<!--     <nav>
+      <h5>Articles</h5>
+      <ul>
+        <li>Catégories</li>
+        <li>Filtrer</li>
+        <li>Rechercher</li>
+      </ul>
+      {% include naviguation.html %}
+    </nav> -->
+  </header>
   <div id="main">
     <div id="content">
       {{ content | expand_urls: root_url }}
@@ -48,7 +59,72 @@
     }());
   </script>
 </body>
-<footer>
+<article class="pre_footer"> 
+  <section>
+    <h3>Ecole Professionnelle Supérieure de Naturopathie</h3>
+    <h4>L'EPSN est la seule école en Suisse a être reconnue pour la formation de Naturopathe issue de la synthèse de Pierre-Valentin Marchesseau.</h4>
+    <p>Cet homme remarquable, surnommé l’Hippocrate des temps modernes, a su tracer un sillon droit et profond où chacun peut s’installer ou ne faire que passer. Ce biologiste-médecin qui fit un travail de synthèse des connaissances disponibles à son époque pour créer la Naturopathie orthodoxe.
+    Il était fasciné par ce qu’il appelait la merveilleuse machine humaine qu’est le corps humain et la façon de lui apporter les meilleures conditions pour le maintenir dans son état de bon fonctionnement originel.
+    Il se dépensa sans compter pendant 60 ans au service de la Naturopathie et de sa diffusion, en France puis en Europe et enfin dans le Monde.</p>
+  </section>
+</article>  
+<footer class="row"> 
+  <article>
+    <section class="span3">
+      <h3>l'école</h3>
+      <ul>
+        <li>L'héritage</li>
+        <li>Le fondateur</li>
+        <li>La direction</li>
+        <li>Les professeurs</li>
+        <li>Le lieu</li>
+      </ul>
+    </section>
+    <section class="span3">
+      <h3>principes</h3>
+      <p>Premièrement, ne pas nuire<br />Le pouvoir de guérison de la nature<br />Identifier et traiter la cause<br />Guérir la personne dans son ensemble<br />Naturopathe comme éducateur de santé<br />Prévention.</p>
+    </section>
+    <section class="span3">
+      <h3>programmes</h3>
+      <ul>
+        <li>Alimentation</li>
+        <li>Exercices</li>
+        <li>Hydrologie</li>
+        <li>Psychologie</li>
+        <li>Physiotérapie</li>
+        <li>Réflexiologie</li>
+        <li>Rayons</li>
+        <li>Respirations</li>
+        <li>Massages</li>
+        <li>Fluides</li>
+      </ul>
+    </section>
+    <section class="span3">
+      <h3>admission</h3>
+      <ul>
+        <li>Public concerné</li>
+        <li>Critère d'admission</li>
+        <li>Auditions</li>
+        <li>Dates clés</li>
+        <li>Inscription</li>
+        <li>Délai d'inscription</li>
+      </ul>
+    </section>
+  </article>
+  <article>
+    <section class="span8">
+      <h3>contact</h3>
+      <div class="address">
+        <h6>Administration</h6>
+        <p>EPSN<br />C/o Liquid Concept Sàrl<br />Rue du Maupas 19C<br />1004 Lausanne</p>
+      </div>
+      <div class="address_studies">
+        <h6>Lieu de cours</h6>
+        <p>Ecole-club Migros Lausanne<br />Rue de Genève 35<br />1003 Lausanne</p>
+      </div>
+    </section>
+    <section class="span6"></section>
+  </article>
   <!--[if lt IE 9]><link rel="stylesheet" href="{{ root_url }}/stylesheets/ie.css"><![endif]-->
 </footer>
 </html>
