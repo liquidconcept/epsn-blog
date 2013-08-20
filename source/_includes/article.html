@@ -1,14 +1,15 @@
 {% unless page.no_header %}
   <header>
     {% if index %}
-      <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title }}{% endif %}</a></h1>
-      {% capture post_author %}{{ page.author }}{{ post.author }}{% endcapture %}
-      <p class="info">le {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %} par {{ post_author }} | {% include post/categories.html %}
-      </p>
+
     {% else %}
       <h1 class="entry-title">{% if site.titlecase %}{{ page.title }}{% endif %}</h1>
     {% endif %}
     {% unless page.meta == false %}
+        <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title }}{% endif %}</a></h1>
+        {% capture post_author %}{{ page.author }}{{ post.author }}{% endcapture %}
+       <p class="info">le {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}{% include post/author.html %}{% if author_string %}{{ author_string }}{% endif %} | {% include post/categories.html %}
+       </p>
       <p class="meta">
         {% include post/date.html %}
 
@@ -23,19 +24,30 @@
 <div class="entry-content">{{ content | excerpt }}</div>
 
 {% unless index %}
+
   <div class="entry-content">{{ content | unexcerpt | strip_img_p }}</div>
+  <div class="bio">
+    <div class="author">
+      <p class="name">Julien Henzelin</p>
+      <p class="content">Lorem ipsum dolor sit amet bibendum, eros eget Fusce iaculis Quisque, torquent. Iaculis Donec! Nostra pede, bibendum, Nulla cursus amet feugiat velit adipiscing! Tempus justo. Natoque imperdiet Vivamus! Pellentesque Aenean mattis purus libero, Vestibulum.Et! Elit ad id lacus fermentum dis hendrerit blandit! Elit. Congue leo id. Pellentesque! In id quam ad Nam platea! Vitae suscipit commodo Etiam torquent. Malesuada eleifend habitasse. Vehicula augue.</p>
+    </div>
+  </div>
     <div id="disqus_thread"></div>
-        <script type="text/javascript">
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'epsn'; // required: replace example with your forum shortname
 
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-            var disqus_shortname = 'epsn-blog'; // required: replace example with your forum shortname
-
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
 {% endunless %}
+
+
+<!-- {% include post/author.html %} -->

@@ -1,0 +1,19 @@
+---
+layout: page
+footer: false
+---
+<div id="blog-archives" class="category">
+  {% include slider.html %}
+	{% assign index = true %}
+        {% for post in site.posts %}
+          {% if post.author contains page.author %}
+            {% assign content = post.content %}
+            <article>
+            	{% include archive_author_post.html %}
+            </article>
+          {% endif %}
+	{% endfor %}
+</div>
+<div class="sidebar-nav span3">
+  {% include_array blog_index_asides %}
+</div> 

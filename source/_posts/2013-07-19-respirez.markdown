@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Respirez!"
+date: 2013-07-19 15:19
+author: Julien Henzelin
+comments: true
+categories: Hygiene
+---
+
+<div class="resume">
+En lisant le merveilleux <a href="http://zenhabits.net/">blog</a> de Léo Babauta, Zen habits. Je suis tombé sur ce récent <a href="http://zenhabits.net/breathe/">article</a> sur la respiration. Il m’est apparu important de le partager et de vous montrer que comme Léo, je pense que cela peut nous changer la vie.
+</div><br />
+
+<!-- more -->
+
+<div class="quote_text">
+La respiration peut transformer votre vie.
+Si vous vous sentez stressé et débordé, respirez. Cela permet de se calmer et de libérer les tensions.
+Si vous êtes inquiet au sujet de quelque chose qui arrive, ou pris dans quelque chose qui est déjà arrivé, respirez. Cela vous ramènera au présent.
+Si vous êtes découragé et vous avez oublié votre but dans la vie, respirez. Cela vous rappellera comme la vie est précieuse, et que chaque souffle de cette vie est un cadeau qu’il faut apprécier. Tirez le meilleur parti de ce don.
+Si vous avez trop de tâches à faire, ou qu’elles sont dispersés au travers de votre journée de travail, respirez. Cela vous aidera à vous focaliser, à vous concentrer sur la tâche la plus importante et être dans le moment présent.
+Si vous passez du temps avec quelqu’un que vous aimez, respirez. Cela vous permettra d’être présent avec cette personne, plutôt que de réfléchir sur le travail ou d’autres choses que vous devez effectuer.
+Si vous faites de l’exercice, respirez. Cela vous aidera à profiter de l’exercice, et donc de continuer pendant plus longtemps.
+Si vous êtes aller trop vite, respirez. Cela vous rappellera de ralentir, et de profiter de la vie.
+En somme, respirez. Et profiter de chaque instant de cette vie. Ils sont trop fugaces et il y en a très peu bon à perdre.
+Astuce: Placez le mot « respirez » comme un économiseur d’écran ou image de bureau, ou en faire une note sur votre mur, votre réfrigérateur ou sur votre bureau. Puis le faire chaque fois que vous voyez le mot.
+</div><br />
+
+<div class="image_post">{% img /images_post/respirez.jpg %}</div>
+
+Voilà, je pense qu’en lisant ces quelques lignes, tout est dit. Profitons donc de respirer avant de prendre des décisions importantes, quand on se sent fatigué, quand on est en colère, quand on est déçu…
+
+Votre état d’esprit changera et vous n’aurez plus besoin de compenser autant que vous ne le faites.

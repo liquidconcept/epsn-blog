@@ -5,4 +5,4 @@
 {% else %}
   {% assign author = site.author %}
 {% endif %}
-{% if author %}<span class="byline author vcard"><span class="fn">{{ author | picture_of_author }}</span></span>{% endif %}
+{% if author %}{% capture author_string %}<span>par</span> {{ author | author_links }}{% endcapture %}{% endif %}

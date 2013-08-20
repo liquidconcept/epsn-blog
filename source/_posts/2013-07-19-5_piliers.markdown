@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Les 5 piliers de la Naturopathie : Humorisme, Vitalisme, Hygiénisme, Causalisme, Holisme"
+date: 2013-07-19 15:19
+author: Alexis Touyarot
+comments: true
+categories: Naturopathie
+---
+
+<div class="resume">
+Voici une première définition de la Naturopathie proposée par la fédération européenne :
+<div class="quote">« La naturopathie est fondée sur le principe de l’énergie vital. Elle rassemble les pratiques issues de la tradition occidentale et repose sur les 10 agents naturels de santé. Elle vise à préserver et optimiser la santé globale de l’individu, sa qualité de vie ainsi qu’à permettre à l’organisme de s’auto-régénérer par des moyens naturels »</div>
+Au-delà de cette définition complexe, il est important de se souvenir des 5 grands principes qui constituent les fondements de cette discipline, de cet art et de cette philosophie aujourd’hui pratiquée par des milliers de  thérapeutes en Europe et dans le monde. Voici lister ici les 5 piliers traditionnels de la naturopathie contemporaine :
+</div><br />
+<!-- more -->
+ 
+<h2>L'humorisme :</h2>
+L’humorisme constitue la science physiologique principale étudiée par les naturopathes. Egalement appelé théorie des humeurs, elle a été définie et développée par Hippocrate au IIème siècle. Elle dominera alors l’analyse médicale jusqu’au XIXème siècle, et permettra à elle seule une compréhension globale des équilibre biologiques humains, et notamment celle des liquides corporels : sang, lymphe, liquides interstitiels et cellulaires qui représente environ les deux tiers de notre poids total.
+ 
+Ces liquides communiquent entre eux et baignent l’ensemble de nos tissus. Ils apportent à nos cellules les nutriments indispensables à leur survie et évacuent les déchets, purifient le corps, pour permettre à ces mêmes cellules de fonctionner correctement et de nourrir la Vie. Les réseaux qu’empreintent ces liquides sont immenses, des milliers de litre de sang traversent notre foie quotidiennement, des hectares de tissus sont irrigués, et des milliards d’agents pathogènes indésirables sont reconnus, détruits, broyés et expulsés en périphérie pour être éliminés par nos principaux émonctoires filtres : poumon, peau, foie, rein et intestins.
+ 
+Cette mécanique parfaite peut malheureusement être perturbée par un encrassement ou un appauvrissement de la qualité de nos humeurs. Ainsi des habitudes alimentaires malsaines, une oxygénation insuffisante, et de nombreux autres facteurs comme le stress, la sédentarité ou la pollution provoquent surcharges et carences humorales, qui entraineront à leur tour de nombreuses perturbations physiologiques. Le naturopathe sait alors détecter ces déséquilibres et proposer des cures de détoxification en cas de surcharges ou de revitalisation en cas de carences. C’est là la base de son travail, toujours dans l’objectif de corriger des paramètres humoraux anormaux, et de rétablir ainsi les grands équilibres vitaux, aujourd’hui rassemblés sous le terme d’homéostasie.
+
+<div class="image_post">{% img /images_post/5_pilliers.jpg %}</div>
+
+<h2>Le Vitalisme :</h2>
+Le vitalisme va plus loin que ce premier concept naturopathique. Il s’agit d’une conception de l’Homme développée au XVIIIème siècle par l’école de Montpellier de Joseph Bartez, qui considère que ce dernier, comme l’ensemble du vivant, n’est pas réductible aux lois physiques et chimiques qui l’animent. Henri Bergson développera ces thèses au début du XXème siècle en affirmant que la vie possède bien un élan propre et autonome.
+ 
+Cette vision de l’Homme s’opposera de tout temps à l’école Cartésienne et scientiste qui considère au contraire que l’Homme n’est que le produit d’une évolution aléatoire et la somme de réactions physiques. Et pourtant, dès le XVème siècle, François Rabelais avertissait : «Science sans conscience n’est que ruine de l’âme». Espérons que les avancées de la médecine quantique nous permettrons de réconcilier ingénieurs médicaux et poètes guérisseurs, dans une vision toujours plus globale et éveillée de l’Homme et de sa Nature.
+ 
+Le vitalisme est donc une vision, une philosophie, devenue ensuite une science bien que contestée par certains, qui suppose l'existence d'une certaine force vitale supérieure qui préside au maintient de la Vie et à ses évolutions. En tant que vitalistes, naturopathes, acupuncteurs ou homéopathes étudierons ainsi leur patient sous l’angle énergétique et l’aideront à restaurer cette énergie vitale, que l’on pourra appeler Qi, Prâna, ou tout simplement Energie. C’est cette énergie qui offrira à ce dernier tout son potentiel d’autoguérison !
+
+<h2>L’Hygiénisme :</h2>
+Le causalisme est la recherche de la cause première face à un trouble fonctionnel ou à une pathologie. C’est une méthode diagnostique visant à rechercher l’origine du trouble, sans se focaliser sur ses effets et symptômes. Cela peut paraître évident mais le causalisme n’est pas la méthode de prédilection du monde médical conventionnel. Ce dernier s’attache en effet avant tout à faire disparaître le symptôme, à le masquer ou à l’éliminer, sans nécessairement traiter le fond du problème, créant parfois ainsi les conditions de rechutes brutales. Pierre-Valentin Marchesseau, père de la Naturopathie moderne, dira d’elle à ce propos qu’elle est la « médecine des profondeurs », dans la plus pure tradition Hippocratique qui invitait tout thérapeute à chercher la cause de la cause … d’un syndrome.
+ 
+Appliquant ce principe, le naturopathe remontera le fil du développement pathologique pour tenter de comprendre les conditions et interactions biologiques, énergétiques et psychiques qui ont abouti à la situation de son patient. A la question « pourquoi moi ? » posée par de nombreux patients, il invitera plutôt à se poser la question du « comment moi ? », en permettant souvent à ces derniers de trouver de vraies réponses, sans nécessairement les chercher dans la complexité des analyses médicales mais plutôt eu eux. Bien souvent, trouver les causes profondes permet une compréhension, une acceptation et réconciliation avec la maladie, condition préalable et indispensable pour atteindre un rétablissement durable.
+
+<h2>L’Holisme :</h2>
+L’approche holistique consiste à considérer l’Homme dans sa globalité. Nous savons depuis bien longtemps que l’Homme n’a pas qu’une seule réalité physique, et pouvons dénombrer de multiples autres plans : énergétique, émotionnel, mental, spirituel … qui concourent tous à la réalité humaine et à sa santé.
+ 
+Tout bon naturopathe devra donc savoir considérer l’Homme dans son ensemble, en levant un peu les yeux pour distinguer au-delà des premiers plans, sans toutefois avoir le nez en l’air au risque de s’envoler vers les hautes sphères. Il développera ainsi son aptitude à faire des choix avec sagesse et maitrise, en ayant toujours pour objectif le bien de son patient et en principe le respect de la Nature, mainte fois copiée, jamais égalée.
+ 
+Lors de son bilan, le naturopathe va prendre en compte tous ces plans puis, avec des outils pédagogiques et thérapeutiques spécifiques, il mettra en place un programme hygiène vital individualisé. En fonction des attentes de son patient, de son état physique et psychique et de son niveau de conscience, il adaptera toujours ses conseils et les plans de travail. L’objectif final étant toujours de permettre au patient de comprendre, de s’approprier et d’appliquer ces conseils, pour devenir véritablement acteur de sa Santé, pro-actif !
+
+<h2>Conclusion :</h2>
+Les céréales représentent aujourd’hui une part trop importante de notre alimentation, soit près de 40% des calories ingérées. Elles ont pourtant de nombreuses vertus, par leur richesse en glucides, fibres, catalyseurs et protéines. Leurs sucres, dits complexes ou lents, sont absorbés lentement par l’organisme. Leur produit final de dégradation, le glucose, et la source d’énergie principale. Il sera stocké dans le foie et transformé en glycogène, avant d’être libéré dans le sang et utilisé en fonction de nos besoins. Comme vu précédemment, il faut privilégier les céréales complètes, voire semi-complètes pour les intestins sensibles. Plus riches en catalyseurs et en fibres, ils sont mieux assimilés.La naturopathie conseille également de réduire la proportion de céréales à Gluten, plus "encrassantes" et "mucogènes", qui fatiguent et surchargent l’organisme (avoine, blé, orge, seigle) On peut les remplacer par le riz, quinoa, sarrasin, millet, fonio, ou l’amarante… En effet, les céréales modernes à Gluten ont été  issues d’une sélection humaine plus tournée vers la quantité que la qualité, et sont devenues légèrement allergènes. Ainsi, de nombreuses personnes ont développé une intolérance au gluten. Cette protéine peut en effet se révéler lente à assimiler et capable de développer des réactions inflammatoires. A noter que cette classe d’aliments se consomme essentiellement cuite, mais que les céréales et légumineuses  peuvent également être germées, ce qui a pour effet d’accroître considérablement leur potentiel enzymatique et d’en faciliter grandement l’assimilation.La germination de ces aliments ne prend que quelques jours et se révèle très facile à réaliser au quotidien dans sa cuisine,

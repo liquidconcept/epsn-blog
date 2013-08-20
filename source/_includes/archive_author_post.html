@@ -1,7 +1,7 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
 <h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
 {% assign content = post.content %}
-{% capture post_author %}{{ page.author }}{{ post.author }}{% endcapture %}
+{% capture post_author %}{{ post.author }}{% endcapture %}
 <p class="info">le {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}{% include post/author.html %}{% if author_string %}{{ author_string }}{% endif %} | {% include post/categories.html %}
 </p>
 <div class="entry-content">{{ content | excerpt }}</div>
