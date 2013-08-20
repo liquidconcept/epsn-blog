@@ -9,9 +9,12 @@ categories: Evenements
 
 <div class="resume">
 L’EPSN a participé à faire connaître mieux la Naturopathie et la phytothérapie en donnant une conférence sur « L’importance de la phytothérapie en Naturopathie » à l’occasion du premier salon de la santé et des plantes médicinales organisé par Morgins tourisme.
-</div>
+</div><br />
 
 <!-- more -->
+
+<iframe class="frame" src="http://www.slideshare.net/slideshow/embed_code/13580642" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+
 &nbsp;
 
 <div class="image_post">{% img /images_post/importance_naturo.jpg %}</div>
