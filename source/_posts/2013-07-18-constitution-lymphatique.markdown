@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Constitution LYMPHATIQUE"
-date: 2013-07-18 15:19
+date: 2013-07-18 15:20
 author: Alexis Touyarot
 comments: true
 categories: Naturopathie

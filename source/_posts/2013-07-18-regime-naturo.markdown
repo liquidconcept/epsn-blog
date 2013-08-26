@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le régime hypotoxique en Naturopathie"
-date: 2013-07-17 15:19
+date: 2013-07-17 15:30
 author: Alexis Touyarot
 comments: true
 categories: Naturopathie

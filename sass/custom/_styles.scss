@@ -34,6 +34,13 @@ body {
     width: 960px;
     margin: 20px auto;
   }
+
+  .flash-video {
+    iframe {
+      width: 942px;
+      height: 529px;
+    }
+  }
 }
 
 .clearBoth {

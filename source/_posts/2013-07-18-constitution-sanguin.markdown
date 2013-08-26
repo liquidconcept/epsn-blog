@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Constitution SANGUIN"
-date: 2013-07-18 15:19
+date: 2013-07-18 15:21
 author: Alexis Touyarot
 comments: true
 categories: Naturopathie

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Constitution BILIEUX"
-date: 2013-09-17 15:19
+date: 2013-07-17 15:19
 author: Alexis Touyarot
 comments: true
 categories: Naturopathie

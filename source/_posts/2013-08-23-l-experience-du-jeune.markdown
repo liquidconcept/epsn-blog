@@ -18,7 +18,7 @@ Dans un documentaire tourné pour la chaîne ARTE et qui est fort intéressant. 
 
 Voici le film en question que je vous conseille de voir. 
 
-<iframe width="942" height="529" src="//www.youtube.com/embed/g3Abu6fKkT8?rel=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe src="//www.youtube.com/embed/g3Abu6fKkT8?rel=0" frameborder="0" allowfullscreen></iframe><br />
 
 Si vous n'avez pas le temps de le voir, en voici le résumé pour vous donner l'envie de le voir, sans pour autant pratiquer: 
 

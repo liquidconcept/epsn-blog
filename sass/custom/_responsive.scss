@@ -9,6 +9,12 @@
     width: 770px;
     margin: 0 auto;
 
+    .flash-video {
+      iframe {
+        width: 750px;
+      }
+    }
+
     .header {
       width: 750px;
 
@@ -233,6 +239,13 @@ screen and (max-width: 320px) {
     overflow: hidden;
     width: 320px;
     margin: 0 auto;
+
+    .flash-video {
+      iframe {
+        width: 300px;
+        height: 200px;
+      }
+    }
 
     .header {
       width: 300px;
