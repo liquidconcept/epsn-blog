@@ -53,3 +53,4 @@ Mon objectif est d'apporter les données suivantes :
 * Mon nombre de pas dans la journée (calculé avec le bracelet UP de jawbone)
 * Ma nuit de sommeil avec réveil, sommeil léger, sommeil profond (calculé avec le bracelet UP de jawbone)
 * Mon taux de sucre sanguin matin et soir (calculé avec l'appareil BG Star)
+* Ma pression artérielle le matin et le soir
