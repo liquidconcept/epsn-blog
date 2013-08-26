@@ -18,9 +18,9 @@ Dans un documentaire tourné pour la chaîne ARTE et qui est fort intéressant. 
 
 Voici le film en question que je vous conseille de voir. 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/g3Abu6fKkT8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="942" height="529" src="//www.youtube.com/embed/g3Abu6fKkT8?rel=0" frameborder="0" allowfullscreen></iframe><br />
 
-Si vous n'avez pas le temps de le voir, en voici le résumé pour vous donner l'envie de le voir, sans pour autant pratiquer : 
+Si vous n'avez pas le temps de le voir, en voici le résumé pour vous donner l'envie de le voir, sans pour autant pratiquer: 
 
 <div class="quote_text">Et s'il existait une alternative au "tout médicament" ? En Russie, en Allemagne et aux États-Unis, médecins et chercheurs étudient les effets étonnants du jeûne sur les patients. Une enquête aussi rigoureuse que troublante. 
 
